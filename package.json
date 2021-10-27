@@ -1,0 +1,19 @@
+{
+  "name": "tcp-auth",
+  "version": "1.0.0",
+  "description": "simple tcp socket auth",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node example.js"
+  },
+  "keywords": [
+    "tcp",
+    "sockets"
+  ],
+  "author": "Paul Jeremiah Mugaya",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
